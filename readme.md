@@ -6,4 +6,4 @@ TODO: implement charging control with relay to keep battery charged no more than
 
 big thanks to https://github.com/etransport/ninebot-docs/wiki/protocol
 
-forked from esp8286 Version
+forked from esp8266 Version
